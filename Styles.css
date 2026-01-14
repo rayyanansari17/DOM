@@ -1,0 +1,34 @@
+html, body {
+    height: 100%;
+    width:100%
+}
+
+#bulb{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 4px solid ;
+
+}
+
+button{
+    height: 50px;
+    width: 200px;
+    padding: 10px 30px;
+    font-size: 25px;
+    margin: 50px;
+    font-weight: 600;
+}
+
+h1{
+    font-size: 80px;
+    font-weight: 900px;
+    color: royalblue;
+}
+
+#box{
+    height: 100px;
+    width: 100%;
+    background-color: yellow;
+    font-size: 40px;
+}
